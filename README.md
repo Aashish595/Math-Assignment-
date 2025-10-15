@@ -4,14 +4,15 @@ This project demonstrates a **trigonometric identity** using a visual representa
 It helps students understand the **Pythagoras theorem** and how trigonometric ratios like **sin A**, **cos A**, and **tan A** are derived.
 
 ---
+## Live Demo -> https://vercel.com/aashish595s-projects/math-assignment
 
-## 🧮 Example Problem
+##  Example Problem
 
 > **Question:**  
 > In a right-angled triangle, the hypotenuse is **13 cm** and one side is **5 cm**.  
 > Find the remaining side and prove that `sin A = 5/13`.
 
-### ✅ Solution
+###  Solution
 
 1. Using the Pythagoras theorem:
 AC² = AB² + BC²
@@ -30,11 +31,11 @@ sin A = Perpendicular / Hypotenuse
 yaml
 Copy code
 
-3. ✅ Hence proved: `sin A = 5/13`
+3.  Hence proved: `sin A = 5/13`
 
 ---
 
-## 🖼️ What’s Inside
+##  What’s Inside
 
 The project visually shows:
 - A **right-angled triangle** (A, B, C)
@@ -47,7 +48,7 @@ The project visually shows:
 
 ---
 
-## 🧱 Technologies Used
+##  Technologies Used
 - **HTML5** — for structure  
 - **CSS3** — for styling  
 - **SVG** — for drawing the triangle  
