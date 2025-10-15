@@ -4,7 +4,7 @@ This project demonstrates a **trigonometric identity** using a visual representa
 It helps students understand the **Pythagoras theorem** and how trigonometric ratios like **sin A**, **cos A**, and **tan A** are derived.
 
 ---
-## Live Demo -> https://vercel.com/aashish595s-projects/math-assignment
+## Live Demo -> [https://vercel.com/aashish595s-projects/math-assignment](https://math-assignment.vercel.app/)
 
 ##  Example Problem
 
